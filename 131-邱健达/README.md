@@ -1,5 +1,11 @@
 ## 作业纪要
 - 每周的作业.py放在HW包中
+### week6: 手动计算bert输出所有权重矩阵的形状
+
+
+### week5: 实现将kmeans聚类的类内中心距离最大的筛选出去
+
+
 ### week4: 基于词典的字符串全切分
 #### - *脚本使用方法: 运行HW.HW_week4_full_segmentation.py*
 - 效果: 递归实现AllCombination, 时空复杂度: O(len(sen) * len(sen)) & O(len(sen))
