@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="第三周" />
     <orderEntry type="module" module-name="week4 中文分词和tfidf特征应用" />
     <orderEntry type="module" module-name="BachelorAlbLearningHub" />
+    <orderEntry type="module" module-name="week5 词向量及文本向量" />
+    <orderEntry type="module" module-name="week6 语言模型和预训练" />
   </component>
 </module>
